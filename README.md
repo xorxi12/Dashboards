@@ -8,3 +8,6 @@
 - Число доставленных заказов (Delivered orders)
 - Отмена заказов (Cancel rate)
 - Число заказов на пользователя (Orders per users)
+
+Ссылка на Дашборд 
+http://redash.public.karpov.courses/public/dashboards/fUeL24usRkZP6If4OwJVHOnjD4kQReMNY6BoJnzR?org_slug=default
