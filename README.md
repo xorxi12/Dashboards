@@ -41,3 +41,12 @@ http://redash.public.karpov.courses/public/dashboards/fUeL24usRkZP6If4OwJVHOnjD4
 
 Дашборд
 http://redash.public.karpov.courses/public/dashboards/Rx2DxoflhovydTQiipThfg6uBQkBNpEipLEFQyyL?org_slug=default
+
+# Marketing Metrics
+
+Метрики маркетинга — то, насколько эффективно мы привлекаем пользователей в наше приложение.
+
+#### СAC
+ - CAC (Customer Acquisition Cost) - отражает затраты на привлечение одного покупателя
+ - ROI (Return on Investment) - подсчёта окупаемости рекламных кампаний
+ - Cредний чек рекламных компаний (Advertising companies average check)
